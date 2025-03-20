@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ThomasFisk
-- 👀 I’m interested in learning code and data science
-- 🌱 I’m currently learning python on Datacamp
-- 💞️ I’m looking to collaborate on anything that I can learn from
+- 👀 I’m a data scienctist - always looking to learn and grow 
+- 💞️ I’m looking to collaborate on interesting data driven projects where I can learn something new
 - 📫 How to reach me - send me an email on Fischer4679@gmail.com
 
 <!---
